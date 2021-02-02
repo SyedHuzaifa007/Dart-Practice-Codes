@@ -14,3 +14,9 @@ void main1() {
 }
 
 // The above method is the combination of two to three methods
+
+void main2() {
+  var first = "You are";
+  var second = "Awesome";
+  print("${first} ${second}");
+}
