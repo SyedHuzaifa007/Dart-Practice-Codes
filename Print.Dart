@@ -12,3 +12,5 @@ void main1() {
   var second_name = "World!";
   print("${first_name} and ${second_name}");
 }
+
+// The above method is the combination of tww to three methods
