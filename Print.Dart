@@ -5,6 +5,9 @@ main() {
   print("This 'main' function can print very much of the code");
 }
 
-// () {
-// print("Printimg some thing first time feels awesome");
-// }
+// Another way of printing
+
+void main() {
+  var first_name = "Hello"
+  var second_name = "World!"
+}
