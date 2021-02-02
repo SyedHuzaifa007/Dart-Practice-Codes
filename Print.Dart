@@ -13,4 +13,4 @@ void main1() {
   print("${first_name} and ${second_name}");
 }
 
-// The above method is the combination of tww to three methods
+// The above method is the combination of two to three methods
