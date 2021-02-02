@@ -7,7 +7,7 @@ main() {
 
 // Another way of printing
 
-void main() {
+void main1() {
   var first_name = "Hello"
   var second_name = "World!"
 }
