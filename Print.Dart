@@ -8,6 +8,7 @@ main() {
 // Another way of printing
 
 void main1() {
-  var first_name = "Hello"
-  var second_name = "World!"
+  var first_name = "Hello";
+  var second_name = "World!";
+  print("${first_name} and ${second_name}");
 }
