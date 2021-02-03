@@ -5,21 +5,21 @@ main() {
   print("This 'main' function can print very much of the code");
 }
 
-// // Another way of printing
+// Another way of printing
 
-// void main1() {
-//   var first_name = "Hello";
-//   var second_name = "World!";
-//   print("${first_name} and ${second_name}");
-// }
+void main1() {
+  var first_name = "Hello";
+  var second_name = "World!";
+  print("${first_name} and ${second_name}");
+}
 
-// // The above method is the combination of two to three methods
+// The above method is the combination of two to three methods
 
-// void main2() {
-//   var first = "You are";
-//   var second = "Awesome";
-//   print("${first} ${second}");
-// }
+void main2() {
+  var first = "You are";
+  var second = "Awesome";
+  print("${first} ${second}");
+}
 
 void main3() {
   var a = 1;
