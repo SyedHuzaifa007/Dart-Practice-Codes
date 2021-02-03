@@ -20,3 +20,10 @@ void main2() {
   var second = "Awesome";
   print("${first} ${second}");
 }
+
+void main3() {
+  var a = 1;
+  var b = 2;
+  var c = a + b;
+  print("The sum of ${a} and ${b} is: ${c}");
+}
