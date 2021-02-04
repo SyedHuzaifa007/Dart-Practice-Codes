@@ -27,3 +27,8 @@ void main3() {
   var c = a + b;
   print("The sum of ${a} and ${b} is: ${c}");
 }
+
+void main4() {
+  var abc = 100;
+  var def = 200;
+}
